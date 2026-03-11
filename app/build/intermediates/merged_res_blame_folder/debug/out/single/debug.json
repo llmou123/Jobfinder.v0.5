@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_picture_as_pdf_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_picture_as_pdf_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_login_page_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\login_page_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_light_white.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\light_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_action_add.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_profile_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_nav_background.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\nav_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_profile_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_action_like_gray.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\action_like_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_login_page_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\login_page_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_action_like_gray.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\action_like_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_action_search_background.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\action_search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_random_image.jpg.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\random_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_profile_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_action_comment_icon.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\action_comment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_default_image.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_action_search.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_account.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_post_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\post_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_nav_item_bg.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\nav_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_ic_backicon.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\ic_backicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_apptitle.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\apptitle.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_bottom_navigation_selector.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\bottom_navigation_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_ic_share_icon.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\ic_share_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\font_poppins_semibold.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_action_like_accent.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\action_like_accent.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_background.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_action_like_gray.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\action_like_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_assignment_ind_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_assignment_ind_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_light_bg.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\light_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_recover_password.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_recover_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_register_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\register_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_nav_draw_backgraound.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\nav_draw_backgraound.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_action_add.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_login_page_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\login_page_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_buttons_search_selector.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\buttons_search_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_login_page_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\login_page_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_default_image.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_action_like_gray.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\action_like_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_home.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_tab1.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_default_image.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_action_like_accent.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\action_like_accent.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_add_chart_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_add_chart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_login_page_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\login_page_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\font_rock_salt.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\font\\rock_salt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_online.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\online.png"
+    },
+    {
+        "merged": "com.pfe.jobfinder.app-merged_res-38:/layout_activity_profile.xml.flat",
+        "source": "com.pfe.jobfinder.app-main-40:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_fragment_tab1.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_post_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\post_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_profile_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_stroke_bg.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\stroke_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_post_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\post_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\font_chilanka.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\font\\chilanka.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_action_like_accent.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\action_like_accent.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_action_add.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_radio_checked.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\radio_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_default_image.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_job_list_item.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\job_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_background2.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_action_like_accent.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\action_like_accent.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_action_search_foreground.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\action_search_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_action_comment_icon.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\action_comment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_register_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\register_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_action_add.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_action_comment_icon.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\action_comment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_profile_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\profile_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_action_search.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_action_like_gray.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\action_like_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\ic_person_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_image_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_fragment_publish.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\font_poppins_bold.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\font\\poppins_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\font_poppins_medium.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_tab2.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_post_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\post_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_manage_search_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_manage_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_setup.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_image_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_action_search.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_delete_verctor.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\delete_verctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_action_add.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_nav_item_color_bg.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\nav_item_color_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_default_image.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_action_comment_icon.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\action_comment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_post_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\post_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_register_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\register_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_post_default_image.PNG.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\post_default_image.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_backbround1.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\backbround1.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_work_outline_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_work_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_action_search.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-hdpi_image_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-hdpi\\image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_image_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_ic_menu_icon.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\ic_menu_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_projet.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\projet.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_notifications.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_register_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\register_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xhdpi_action_search.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xhdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_default_profile.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\default_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_action_comment_icon.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\action_comment_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_image_placeholder.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\image_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_fragment_tab2.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_radio_default.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\radio_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\layout_fragment_my_jobs.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_my_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_action_like_accent.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\action_like_accent.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-xhdpi_register_logo.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-xhdpi\\register_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

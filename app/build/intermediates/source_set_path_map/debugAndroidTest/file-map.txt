@@ -1,0 +1,6 @@
+com.pfe.jobfinder.test.app-core-1.5.0-0 C:\Users\Mouadh\.gradle\caches\transforms-3\03138de41e4b8b19d8d2e445319480dc\transformed\core-1.5.0\res
+com.pfe.jobfinder.test.app-annotation-experimental-1.3.0-1 C:\Users\Mouadh\.gradle\caches\transforms-3\71ea1df654f2adfb016c0188d73b207d\transformed\annotation-experimental-1.3.0\res
+com.pfe.jobfinder.test.app-androidTest-2 C:\Users\Mouadh\AndroidStudioProjects\JobFinder2 - Copie\app\build\generated\res\resValues\androidTest\debug
+com.pfe.jobfinder.test.app-mergeDebugAndroidTestResources-3 C:\Users\Mouadh\AndroidStudioProjects\JobFinder2 - Copie\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.pfe.jobfinder.test.app-mergeDebugAndroidTestResources-4 C:\Users\Mouadh\AndroidStudioProjects\JobFinder2 - Copie\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.pfe.jobfinder.test.app-merged_res-5 C:\Users\Mouadh\AndroidStudioProjects\JobFinder2 - Copie\app\build\intermediates\merged_res\debugAndroidTest

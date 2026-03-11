@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JobFinder" parent="Theme.AppCompat.DayNight">
+        
+        <item name="colorPrimary">#2196f3</item>
+        <item name="colorPrimaryVariant">#0069C0</item>
+        <item name="colorOnPrimary">#F44336</item>
+        
+        <item name="colorSecondary">#80ffffff</item>
+        <item name="colorSecondaryVariant">#747474</item>
+        <item name="colorOnSecondary">#F44336</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

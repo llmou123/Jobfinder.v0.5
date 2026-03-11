@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">78706344458-4t5g0o97agrkili1ldjcfa0lkg9v2h3g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">78706344458</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsmBe7hcPDJRTff9E3NfO5DqkysFTgOOU</string>
+    <string name="google_app_id" translatable="false">1:78706344458:android:a78c1490209bc4132e95f3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsmBe7hcPDJRTff9E3NfO5DqkysFTgOOU</string>
+    <string name="google_storage_bucket" translatable="false">job-finder-699a9.appspot.com</string>
+    <string name="project_id" translatable="false">job-finder-699a9</string>
+</resources>

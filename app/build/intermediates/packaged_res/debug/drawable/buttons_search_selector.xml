@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Button pressed state -->
+    <item android:drawable="@drawable/radio_checked" android:state_checked="true"/>
+    <item android:drawable="@drawable/radio_default" android:state_checked="false"/>
+
+
+
+</selector>

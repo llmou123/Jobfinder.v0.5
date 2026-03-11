@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\fragment_my_jobs.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_my_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\job_list_item.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\job_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_recover_password.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_recover_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\fragment_publish.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\fragment_tab2.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_setup.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_tab1.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\fragment_tab1.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_tab2.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_tab2.xml"
+    },
+    {
+        "merged": "com.pfe.jobfinder.app-mergeDebugResources-37:/layout/activity_profile.xml",
+        "source": "com.pfe.jobfinder.app-main-40:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-mergeDebugResources-37:\\layout\\activity_details.xml",
+        "source": "C:\\Users\\Mouadh\\.gradle\\daemon\\8.0\\com.pfe.jobfinder.app-main-40:\\layout\\activity_details.xml"
+    }
+]
