@@ -24,3 +24,9 @@ Recruiters can post job opportunities
 Direct messaging between recruiters and candidates
 
 Profile and company browsing
+
+
+
+
+
+*This project was originally developed in 2023 and later uploaded to GitHub!*
